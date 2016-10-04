@@ -14,6 +14,7 @@ namespace Matriz_con_colores
 
             List<Plataforma> LPlat2 = new List<Plataforma>();
 
+            //Tamaño de la pantalla
 
             Console.SetBufferSize(101, 46);
 
